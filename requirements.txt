@@ -4,5 +4,3 @@ scikit-learn
 imbalanced-learn
 xgboost
 joblib
-streamlit==1.32.0
-altair==5.3.0
