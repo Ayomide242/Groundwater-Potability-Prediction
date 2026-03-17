@@ -14,7 +14,7 @@ Access to safe drinking water remains a critical global challenge. This project 
 
 ## Demo
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ---
 
