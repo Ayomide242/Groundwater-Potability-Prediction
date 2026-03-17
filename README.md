@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts whether a water sample is **safe to drink** based on physicochemical measurements.
 
-> Try it live → [your-app-link-here]
+> Try it live → [https://groundwater-potability-prediction-vfw6dng2k6gayzhvefmfuj.streamlit.app/]
 
 ---
 
