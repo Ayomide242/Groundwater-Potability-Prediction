@@ -48,16 +48,6 @@ joblib
 
 ---
 
-## Usage
-
-```bash
-streamlit run app.py
-```
-
-Open `http://localhost:8501`, enter your water sample values, and hit **Predict**.
-
----
-
 ## Project Files
 
 ```
